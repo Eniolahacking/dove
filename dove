@@ -808,7 +808,7 @@ def menu_select():
 
 	print ("[!] Process has completed")
 
-	print ("[!] Total sher-cp/sher-hacked : "+str(len(cps)) + "/"+str(len(oks)))
+	print ("[!] Total EFK-cp/EFK-hacked : "+str(len(cps)) + "/"+str(len(oks)))
 
 	print (47*"-")
 
